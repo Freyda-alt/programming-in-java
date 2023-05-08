@@ -1,6 +1,2 @@
 rootProject.name = 'programming-in-java'
-include 'Lab00'
-include 'src:main:lab00'
-findProject(':src:main:lab00')?.name = 'lab00'
-include 'Lab00'
 
