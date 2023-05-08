@@ -5,40 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b75589f2-575b-42c5-a0a0-82a14bf200d9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/agh/ii/prinjava/lab01/lst01_01/HelloEncapsulation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/agh/ii/prinjava/lab01/lst01_01/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/agh/ii/prinjava/lab01/lst01_02/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/agh/ii/prinjava/lab01/lst01_02/RichDad.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/agh/ii/prinjava/lab01/lst01_02/RichDadsKid.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/agh/ii/prinjava/lab01/lst01_03/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/agh/ii/prinjava/lab01/lst01_03/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/agh/ii/prinjava/lab01/lst01_03/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/agh/ii/prinjava/lab01/lst01_03/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/agh/ii/prinjava/lab01/lst01_04/HelloStatic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/agh/ii/prinjava/lab01/lst01_04/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/agh/ii/prinjava/lab01/lst01_05/HelloObjectInit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/agh/ii/prinjava/lab01/lst01_05/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/agh/ii/prinjava/lab01/lst01_06/ClassFamily.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/agh/ii/prinjava/lab01/lst01_06/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/agh/ii/prinjava/lab01/lst01_07/HelloFactoryMeth.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/agh/ii/prinjava/lab01/lst01_07/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/agh/ii/prinjava/lab01/lst01_08/EagerSingleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/agh/ii/prinjava/lab01/lst01_08/LazySingleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/agh/ii/prinjava/lab01/lst01_08/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/agh/ii/prinjava/lab01/lst01_08/UnsafeSingleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/agh/ii/prinjava/lab01/lst01_09/HelloImmutable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/agh/ii/prinjava/lab01/lst01_09/HelloJavaRecord.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/agh/ii/prinjava/lab01/lst01_09/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/agh/ii/prinjava/lab01/lst01_10/DemoClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/agh/ii/prinjava/lab01/lst01_10/HashCodeOK.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/agh/ii/prinjava/lab01/lst01_10/HashCodeProblem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/agh/ii/prinjava/lab01/lst01_10/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab00/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab00/src/main/java/agh/ii/prinjava/lab00/lst00_01/Calc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab00/src/main/java/agh/ii/prinjava/lab00/lst00_01/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,6 +22,57 @@
       <ProjectState />
     </projectState>
   </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$/Lab00">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="programming-in-java" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="programming-in-java" type="f1a62948:ProjectNode" />
+                <item name="Lab00" type="2d1252cf:ModuleNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="programming-in-java" type="f1a62948:ProjectNode" />
+                <item name="Lab00" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="programming-in-java" type="f1a62948:ProjectNode" />
+                <item name="Lab00" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="verification" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="programming-in-java" type="f1a62948:ProjectNode" />
+                <item name="Lab00" type="2d1252cf:ModuleNode" />
+                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -58,16 +80,20 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2PWHBP6Xurdevrd4T1ztM3aEKt2" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "corretto-17",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -75,9 +101,38 @@
     "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.14941406",
-    "project.structure.side.proportion": "0.2"
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "proofread"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="programming-in-java:Lab00 [test]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/Lab00" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.programming-in-java:Lab00 [test]" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -86,11 +141,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1683565784844</updated>
-      <workItem from="1683565789681" duration="1364000" />
+      <workItem from="1683565789681" duration="3484000" />
     </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <created>1683567213885</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1683567213885</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
   </component>
 </project>
